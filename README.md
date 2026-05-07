@@ -9,18 +9,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yodindawadi&theme=tokyonight" alt="yodindawadi streak" />
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yodindawadi&theme=onedark" alt="yodindawadi" />
-  </a> 
-</p>
-
-- 🔭 I’m currently working on [Jestha Jan Samarpan](https://www.parentcareservices.com/en)
-- 🌱 I’m currently learning **NextJs, PostgreSQL**
-- 💬 Ask me about **React, JavaScript, Nodejs**
-- 📫 How to reach me **yodindawadi10@gmail.com**
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/18jgqKB6Mo84gR45zaN3XnIrchcvQd181/view?usp=drive_link)
-- ⚡ Fun fact **I think I am Funny**
+-  I’m currently working on [Jestha Jan Samarpan](https://www.parentcareservices.com/en)
+-  I’m currently learning **NextJs, PostgreSQL**
+-  Ask me about **React, JavaScript, Nodejs**
+-  How to reach me **yodindawadi10@gmail.com**
+-  Know about my experiences [View Resume](https://drive.google.com/file/d/18jgqKB6Mo84gR45zaN3XnIrchcvQd181/view?usp=drive_link)
+-  Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
