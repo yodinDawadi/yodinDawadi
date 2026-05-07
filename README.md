@@ -40,17 +40,3 @@
     <td><a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></td>
   </tr>
 </table>
----
-
-<h3 align="left">GitHub Statistics:</h3>
-
-<p align="center">
-  <!-- This graph shows your contribution trends over the last month -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yodindawadi&theme=tokyonight&area=true" width="100%" alt="yodindawadi activity graph" />
-</p>
-
-<p align="center">
-  <!-- A robust alternative for general stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yodindawadi&theme=tokyonight" width="48%" alt="yodindawadi stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yodindawadi&theme=tokyonight" width="48%" alt="yodindawadi languages" />
-</p>
